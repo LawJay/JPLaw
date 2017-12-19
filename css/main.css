@@ -20,6 +20,11 @@ body {
   padding: 50px;
 }
 
+#navbar-header{
+    display: inline-block;
+    list-style-type: none;
+}
+
 
 /* ==========================================================================
    Author's custom styles
